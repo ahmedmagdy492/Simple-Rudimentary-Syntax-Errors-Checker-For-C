@@ -3,7 +3,7 @@ a simple rudimentary syntax errors checker that checks for missing (, {, [, " an
 
 to get started
 
-"""Console
+```Console
 $ make
 $ ./main <filename.c>
-"""
+```
